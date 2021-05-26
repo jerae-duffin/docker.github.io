@@ -113,6 +113,18 @@ Yes! Both the Pro and Team plans are available via annual subscriptions and incl
 
 You can view the annual subscription pricing for each product at [Docker Pricing](https://www.docker.com/pricing){: target="blank" rel="noopener" class=""}.
 
+### I'm on an annual plan. Where did my monthly seats go?
+
+Docker no longer supports hybrid accounts with both monthly and annual seats. As of June 1, 2021 all monthly seats that were part of an existing annual plan have been converted to annual seats.
+
+### How is Docker charging me for the monthly seats that were converted into annual seats?
+
+Docker will not charge you for any monthly seats that were converted to annual seats for the remainder of your current annual subscription. We will charge you for the total number of seats included in your account at the time of the renewal of your annual subscription.
+
+### Wait, so you're saying I won't be charged for my monthly seats for the remainder of my annual subscription?
+
+That's right! If you had monthly seats on your annual subscription, you won't be charged for those seats until your annual renewal. For example if you had 5 monthly seats on your annual subscription, and your annual subscription is renewing on December 1, 2021, you will not be charged for the 5 converted monthly seats until December 1, 2021. Yay!
+
 ### Are legacy plans eligible for annual pricing?
 
 No, you must move to the new Pro or Team plans to take advantage of the Annual pricing.
