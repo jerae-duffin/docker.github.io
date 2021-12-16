@@ -14,8 +14,8 @@ After establishing the connection between the IdP server and Docker Hub, adminis
 
 To enable SSO in Docker Hub, you need the following:
 
-* **SAML 2.0**: Entity ID, ACS URL, Single Logout URL and Certificate Download URL
-* **Azure AD**: Client ID (a unique identifier for your registered AD application), Client Secret (a string used to gain access to your registered Azure AD application), and AD Domain details
+* **SAML 2.0**: Entity ID, ACS URL, Single Logout URL and Certificate Download URL.
+* **Azure AD**: Client ID (a unique identifier for your registered AD application), Client Secret (a string used to gain access to your registered Azure AD application), and AD Domain details.
 
 We currently support enabling SSO on a single organization. If you have any users in your organization with a different domain (including social domains), they will be added to the organization as guests.
 
